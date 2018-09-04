@@ -6,9 +6,8 @@ namespace VstsTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello VSTS message is now changed.");
+            Console.WriteLine("Changed from Studio");
             Console.Read();
-
         }
     }
 }
