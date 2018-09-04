@@ -6,7 +6,7 @@ namespace VstsTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Changed from Studio");
+            Console.WriteLine("Changed from Studio again");
             Console.Read();
         }
     }
